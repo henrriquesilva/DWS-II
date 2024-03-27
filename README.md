@@ -1,5 +1,5 @@
 PROJETO LOJINHA
-link[a.com] 
+
 Esta aplicação foi desenvolvida pelo aluno João Henrique Da Silva Sousa no Instituto Federal como parte da disciplina de Desenvolvimento de Websites.
 O objetivo do projeto é estudar a conexão da linguagem de programação PHP com o banco de dados. Na pasta "tabelas", 
 você encontrará os códigos SQL das tabelas para MySQL e PostgreSQL.
